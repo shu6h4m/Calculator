@@ -1,5 +1,5 @@
 <div align="center"> 
- <h1> Simple Calculator using HTML CSS and JAVAScript </h1>
+ <h1> Simple Calculator using HTML CSS and JavaScript </h1>
 
 <br>
  
